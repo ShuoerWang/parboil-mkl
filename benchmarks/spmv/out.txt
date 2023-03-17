@@ -1,0 +1,3 @@
+IO        : 0.023730
+Compute   : 0.007672
+Timer Wall Time: 0.031402
